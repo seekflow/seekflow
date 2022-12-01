@@ -1,7 +1,8 @@
-- 👋 Hi, I’m charlie
-- 👀 I’m interested in computer science for biological applications and recently left my career to focus full time on self-teaching programming
-- 🌱 I’m currently learning the basics of Python as my first programming language
-- 📫 How to reach me: charliepmaxwell@gmail.com
+- ⚡️ Hi, I’m Charlie Maxwell ⚡️
+
+- 🍄 I’m interested in the intersection of **computer science and synthetic biology**, and recently left my career to focus full time on these ideas
+- 🌌 Check out my website where I record my learning (and real-world!) journeys >> [seekflow.io](seekflow.io)
+- 📫 you can also reach me at charliepmaxwell@gmail.com
 
 <!---
 seekflow/seekflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
