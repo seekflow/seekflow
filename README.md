@@ -1,6 +1,6 @@
 - ⚡️ Hi, I’m Charlie Maxwell ⚡️
 
-- 🍄 I’m interested in the intersection of **computer science and synthetic biology**, and just left my career to focus on these ideas
+- 🍄 I’m interested in the intersection of **art and biology** with a focus on synthetic and computational biology
 - 🌌 Check out my website where I record my learning (and real-world!) journeys >> [seekflow.io](https://www.seekflow.io/)
 - 📫 you can also reach me at charliepmaxwell@gmail.com
 
